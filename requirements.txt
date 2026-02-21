@@ -8,3 +8,4 @@ requests==2.32.0
 # Add this line at the bottom:
 itsdangerous>=2.1.2
 jinja2
+python-multipart
